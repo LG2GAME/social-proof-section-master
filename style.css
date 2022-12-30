@@ -135,7 +135,7 @@ footer {
     font-weight: 700;
 }
 
-.opinion__name span h4 {
+.opinion__name span p {
     color: var(--soft-pink);
     font-size: 18px;
     font-weight: 500;
